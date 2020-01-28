@@ -1,0 +1,11 @@
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\obj\Debug\netcoreapp3.1\Desafio_Mattos.csprojAssemblyReference.cache
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\obj\Debug\netcoreapp3.1\Desafio_Mattos.AssemblyInfoInputs.cache
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\obj\Debug\netcoreapp3.1\Desafio_Mattos.AssemblyInfo.cs
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\bin\Debug\netcoreapp3.1\Desafio_Mattos.exe
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\bin\Debug\netcoreapp3.1\Desafio_Mattos.deps.json
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\bin\Debug\netcoreapp3.1\Desafio_Mattos.runtimeconfig.json
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\bin\Debug\netcoreapp3.1\Desafio_Mattos.runtimeconfig.dev.json
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\bin\Debug\netcoreapp3.1\Desafio_Mattos.dll
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\bin\Debug\netcoreapp3.1\Desafio_Mattos.pdb
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\obj\Debug\netcoreapp3.1\Desafio_Mattos.dll
+C:\Users\NSBT\Desktop\Projetos\Desafio_Mattos\obj\Debug\netcoreapp3.1\Desafio_Mattos.pdb
